@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:07/05/24
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -83,6 +83,17 @@ Page-3
 ```
 
 ## OUTPUT:
+
+**PAGE 1**
+![figma1 1](https://github.com/vaishnavidevi23013992/Figma/assets/151864235/4358a403-33dd-40de-bd43-2bae4d197dab)
+
+**PAGE-2**
+
+![figma1 2](https://github.com/vaishnavidevi23013992/Figma/assets/151864235/585694e0-5b36-4993-8d9b-19e64e391c87)
+
+**PAGE-3**
+
+![figma1 3](https://github.com/vaishnavidevi23013992/Figma/assets/151864235/1ce002f3-0c42-491a-8e89-379cda48d5b0)
 
 
 ## RESULT:
